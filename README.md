@@ -16,4 +16,4 @@ Aprendendo Python e Git/GitHub
 - [ Nome do Projeto](link-do-repositorio) - Breve descrição
 
 ## Contato
-[LinkedIn](www.linkedin.com/in/mariana-s-15705220a) 
+[LinkedIn](https://www.linkedin.com/in/mariana-s-15705220a/) 

@@ -7,7 +7,7 @@ Aprendendo Python e Git/GitHub
 
 ## Tecnologias que domino
 - Excel Avançado
-- Power BI
+- Power BI (em aprendizado)
 - SharePoint
 - Python (iniciante)
 - Git e GitHub (em aprendizado)
